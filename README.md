@@ -6,8 +6,5 @@
 - 🌱 Learning **Electron** & **Flutter** now.
 - 👨‍💻‍ I'm buzy **getting transferred to defense**.
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wjq990112&repo=Holiday-Editor)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjq990112)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wjq990112&count_private=true&show_icons=true)
