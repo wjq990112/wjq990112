@@ -3,7 +3,7 @@
 <strong>Hi! I'm 炽翎. A full stack developer form China🇨🇳.</strong>
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-end;">
-  <div
+  <section
     style="
       display: flex;
       flex-direction: column;
@@ -25,8 +25,8 @@
       alt="Anurag's github stats"
       src="https://github-readme-stats.vercel.app/api?username=wjq990112&count_private=true&show_icons=true"
     />
-  </div>
-  <div
+  </section>
+  <section
     style="
       display: flex;
       flex-direction: column;
@@ -39,5 +39,5 @@
       alt="Top Langs"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjq990112"
     />
-  </div>
+  </section>
 </div>
