@@ -1,6 +1,6 @@
 <h3>Hey! I'm 炽翎. 👋</h3>
 
-<strong>Hi! I'm 炽翎. A full stack developer form China🇨🇳.</strong>
+<strong>Hi! I'm 炽翎. A full stack developer from China🇨🇳.</strong>
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-end;">
   <section
