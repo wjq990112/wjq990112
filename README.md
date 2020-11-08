@@ -14,12 +14,12 @@
     <ul>
       <li>
         🔭 A <strong>boy</strong> working in
-        <strong>Alibaba Taobao FED</strong>.
+        <strong>Meituan</strong>.
       </li>
       <li>
-        🌱 Learning <strong>Electron</strong> & <strong>Flutter</strong> now.
+        🌱 Learning <strong>Vue 3.0</strong> & <strong>NestJS</strong> now.
       </li>
-      <li>👨‍💻‍ I'm buzy <strong>getting transferred to defense</strong>.</li>
+      <li>👨‍💻‍ I'm buzy with <strong>graduation project</strong>.</li>
     </ul>
     <img
       alt="Anurag's github stats"
