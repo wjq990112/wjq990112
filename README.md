@@ -1,16 +1,16 @@
 <h3>Hey! I'm 炽翎. 👋</h3>
 
-<strong>Hi! I'm 炽翎. A full stack developer form China🇨🇳.</strong>
+<strong>Hi! I'm 炽翎. A full stack developer from China🇨🇳.</strong>
 
 <div>
   <section>
     <ul>
       <li>
         🔭 A <strong>boy</strong> working in
-        <strong>Alibaba Taobao FED</strong>.
+        <strong>Meituan</strong>.
       </li>
       <li>
-        🌱 Learning <strong>Electron</strong> & <strong>Flutter</strong> now.
+        🌱 Learning <strong>Vue 3.0</strong> & <strong>Egg.js</strong> now.
       </li>
       <li>👨‍💻‍ I'm buzy <strong>getting transferred to defense</strong>.</li>
     </ul>
