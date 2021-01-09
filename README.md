@@ -17,13 +17,13 @@
   </section>
   <section style="width: 400px">
     <img
-      width="100%"
+      width="50%"
       style="margin-bottom: 20px"
       alt="Anurag's github stats"
       src="https://github-readme-stats.vercel.app/api?username=wjq990112&count_private=true&show_icons=true"
     />
     <img
-      width="100%"
+      width="50%"
       alt="Top Langs"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjq990112&layout=compact"
     />
