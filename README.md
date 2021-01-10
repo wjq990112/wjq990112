@@ -13,7 +13,7 @@
     </ul>
   </section>
   <section style="display: flex; width: 400px">
-    <div>
+    <div style="width: 200px; margin-right: 20px">
       <img
         width="200px"
         style="margin-bottom: 10px"
@@ -26,9 +26,11 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjq990112&layout=compact"
       />
     </div>
-    <div>
+    <div style="width: 180px">
+      This is my <strong>Official Account</strong>. You can
+      <strong>Scan it using WeChat</strong>.
       <img
-        width="200px"
+        width="180px"
         src="http://cdn.jack-wjq.cn/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"
         alt="Official Account"
       />
