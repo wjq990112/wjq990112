@@ -2,14 +2,14 @@
 
 ### A full stack developer from China🇨🇳.
 
-- 👨🏻‍💻A boy working in **Alibaba Taobao FED**.
-- 📚Learning **Webpack 3.0** & **Egg.js** now.
-- 🎓I'm buzy with **graduation project**.
+- 👨🏻‍💻 A boy working in **Alibaba Taobao FED**.
+- 📚 Learning **Webpack 3.0** & **Egg.js** now.
+- 🎓 I'm busy with **graduation project**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjq990112&count_private=true&show_icons=true)
+<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wjq990112&count_private=true&show_icons=true"/>
 
-![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=wjq990112&layout=compact)
+<img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjq990112&layout=compact"/>
 
-### This is my **Official Account**. You can **scan it using WeChat**.
+This is my **Official Account**. You can **scan it using WeChat**.
 
-![Official Account](http://cdn.jack-wjq.cn/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+<img width="300px" height="300px" alt="Official Account" src="http://cdn.jack-wjq.cn/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"/>
