@@ -2,7 +2,7 @@
 
 ### A full stack developer from China🇨🇳.
 
-- 🎨 Author of [**`holiday-avatar`**](https://github.com/wjq990112/holiday-avatar)
+- 🎨 Author of [**`holiday-avatar`**](https://github.com/wjq990112/holiday-avatar).
 - 👨🏻‍💻 A boy working in **Alibaba Taobao FED**.
 - 📚 Learning **Webpack 5.0** & **Egg.js** now.
 - 🎓 I'm busy with **Rax & Vite** now.
