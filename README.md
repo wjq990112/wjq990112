@@ -3,8 +3,8 @@
 ### A full stack developer from China🇨🇳.
 
 - 🎨 Author of [**`soliduse`**](https://github.com/wjq990112/soliduse), [**`holiday-avatar`**](https://github.com/holiday-lab/holiday-avatar) and [etc.](https://github.com/wjq990112)
-- 👨🏻‍💻 A boy working in **Alibaba Taobao FED**.
-- 📚 Learning **Chrome DevTools** now.
+- 👨🏻‍💻 A boy working in **Tiktok**.
+- 📚 Learning **SolidJS** now.
 - 🎓 I'm busy with **SolidJS** now.
 
 <div style="display:flex;justify-content:around;">
