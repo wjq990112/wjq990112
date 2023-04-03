@@ -1,11 +1,11 @@
-## Hi, I am 炽翎!👋🏻
+## Hi, I am J4ck W4n9!👋🏻
 
 ### A full stack developer from China🇨🇳.
 
 - 🎨 Author of [**`soliduse`**](https://github.com/wjq990112/soliduse), [**`holiday-avatar`**](https://github.com/holiday-lab/holiday-avatar) and [etc.](https://github.com/wjq990112)
 - 👨🏻‍💻 A boy working in **TikTok**.
 - 📚 Learning **SolidJS** now.
-- 🎓 I'm busy with **SolidJS** now.
+- 🎓 I'm busy with **SolidJS** & **[Farm](https://github.com/farm-fe/farm)** now.
 
 <div style="display:flex;justify-content:around;">
   <img width="295px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjq990112&layout=compact"/>
