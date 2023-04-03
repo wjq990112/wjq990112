@@ -14,4 +14,4 @@
 
 This is my **Official Account**. You can **scan it using WeChat**.
 
-<img width="430px" src="https://cdn.jack-wjq.cn/PicGo/202210111528373.png" />
+<img width="430px" src="https://user-images.githubusercontent.com/45777252/229406882-173d8624-5bd9-4b0c-bf7a-0a5d3623452d.png" />
